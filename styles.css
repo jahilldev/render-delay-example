@@ -1,0 +1,13 @@
+body {
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+main {
+  padding-top: 40px;
+  max-width: 1024px;
+  margin: auto;
+}
+
+p {
+  line-height: 1.4;
+}
