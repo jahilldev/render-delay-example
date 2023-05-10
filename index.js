@@ -7,7 +7,11 @@ const mainElement = bodyElement.querySelector("main");
 
 const htmlContent = `
   <h1>Render delay example</h1>
-  <img src="https://img.grouponcdn.com/seocms/3LuWqEjc5ztRZ2zYvwy1LyRoZqce/Copy_of_Currys_PC_World_hero_jpg-868x289" />
+  <img
+    src="https://img.grouponcdn.com/seocms/3LuWqEjc5ztRZ2zYvwy1LyRoZqce/Copy_of_Currys_PC_World_hero_jpg-868x289"
+    width="868"
+    height="289"
+  />
   <p>
     Lorem Ipsum is simply dummy text of the printing and typesetting
     industry. Lorem Ipsum has been the industry's standard dummy text ever
